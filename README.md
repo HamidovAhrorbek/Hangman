@@ -85,9 +85,13 @@ The main logic resides in main.py, with a loop that:
 
 📸 Sample Output
 
+
 Guess a letter: a
+
 Word to guess: _ a _ _ _ _
+
 ****************************5/6 LIVES LEFT****************************
+
 You guessed 'x', that's not in the word. You lose a life.
 
 
