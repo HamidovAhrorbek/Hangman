@@ -1,3 +1,4 @@
+import art
 import random
 
 
@@ -23,7 +24,7 @@ while not game_over:
 
 
     display = ""
-
+    print(logo)
     for letter in chosen_word:
         if letter == guess:
             display += letter
